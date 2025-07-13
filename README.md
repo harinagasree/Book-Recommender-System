@@ -66,7 +66,7 @@ book-recommendation-system/
 
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/book-recommendation-system.git
+git clone https://github.com/harinagasree/book-recommendation-system.git
 cd book-recommendation-system
 
 # Install dependencies
